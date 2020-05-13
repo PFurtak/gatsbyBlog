@@ -1,6 +1,7 @@
 ---
 title: "Why I Love Ice Cream"
 date: "2017-08-10"
+description: "Reasons Ice-Cream is the ultimate desert"
 ---
 
 ### Ice cream is the best.
